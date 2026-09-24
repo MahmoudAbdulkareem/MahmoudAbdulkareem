@@ -3,7 +3,7 @@
 I'm **Mahmoud** — a full-stack dev from Tunis who builds web apps that *think*.
 
 React · Angular · Node · TypeScript · REST APIs
-+ a sprinkle of AI/ML, IoT, and IBM Maximo magic
++ A sprinkle of AI/ML, IoT, and IBM Maximo magic
 
 I ship things end-to-end: design → code → deploy → 🧘‍♂️ *hope it works*.
 
